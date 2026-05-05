@@ -27,6 +27,10 @@ Déploiement production de Taiga sur AWS — Docker Swarm Multi-AZ, Terraform, A
 
 > Live : https://taiga.devagilles.fr
 
+### 📊 [monitoring-stack](https://github.com/aberdjeghloul/monitoring-stack)
+Stack de monitoring clé en main — Prometheus + Grafana + Node Exporter + cAdvisor déployés en une commande via Docker Compose.  
+`Prometheus` `Grafana` `Node Exporter` `cAdvisor` `Docker Compose`
+
 ---
 
 ## Contact
