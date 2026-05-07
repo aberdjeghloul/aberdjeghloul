@@ -21,7 +21,7 @@ Développeur senior reconverti DevOps, passionné par l'automatisation, l'infras
 
 ## Projets
 
-### 🏗️ [taiga-aws-infra](https://github.com/aberdjeghloul/taiga-aws-infra)  [![pipeline status](https://gitlab.com/abdelrhamane-devops/taiga-projectinfra-projet/badges/main/pipeline.svg)](https://gitlab.com/abdelrhamane-devops/taiga-project/infra-projet/-/pipelines) 
+### 🏗️ [taiga-aws-infra](https://github.com/aberdjeghloul/taiga-aws-infra)  [![pipeline status](https://gitlab.com/abdelrhamane-devops/taiga-project/infra-projet/badges/main/pipeline.svg)](https://gitlab.com/abdelrhamane-devops/taiga-project/infra-projet/-/pipelines) 
 Déploiement production de Taiga sur AWS — Docker Swarm Multi-AZ, Terraform, Ansible, pipeline CI/CD complet, Prometheus/Grafana.
 `AWS` `Terraform` `Ansible` `Docker Swarm` `GitLab CI/CD` `Traefik` `Prometheus`
 
