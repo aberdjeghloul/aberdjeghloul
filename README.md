@@ -1,6 +1,6 @@
 # Abdelrhamane Berdjeghloul
 
-**DevOps & Cloud Engineer · Senior .NET Developer · 20+ ans d'expérience**
+**Développeur .NET Senior | DevOps & AWS | Scrum Master · AWS Certified Solutions Architect – Associate · 22 ans d'expérience**
 
 Développeur senior reconverti DevOps, passionné par l'automatisation, l'infrastructure as code et les architectures cloud résilientes.
 
