@@ -6,6 +6,16 @@ Développeur senior reconverti DevOps, passionné par l'automatisation, l'infras
 
 ---
 
+## Certifications
+
+| Année | Certification |
+|---|---|
+| 2026 | ☁️ **AWS Certified Solutions Architect – Associate** (SAA-C03) |
+| 2026 | 🎓 **Titre Professionnel Administrateur Système DevOps** — RNCP Niveau 6 (La Capsule) |
+| 2015 | 📋 **Professional Scrum Master I** (PSM I) · **PRINCE2** Foundation & Practitioner |
+
+---
+
 ## Stack
 
 | Domaine | Technologies |
